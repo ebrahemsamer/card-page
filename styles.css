@@ -1,0 +1,38 @@
+.card-container
+{
+	padding: 10px;
+	width: 300px;
+}
+
+.animal-image
+{
+	width: 300px;
+}
+.animal-name , .animal-image
+{
+	padding-bottom: 10px;
+}
+
+.animal-fact
+{
+	font-style: italic;
+}
+
+.animal-item
+{
+	font-weight: bold;
+}
+
+.animal-list-items
+{
+	list-style: none;
+}
+
+.animal-information , .card-container
+{
+	border: 1px solid #DDD;
+}
+.animal-list-items , .animal-fact , .animal-description
+{
+	padding : 10px 10px 0 10px; 
+}
